@@ -1,0 +1,23 @@
+/* src/components/Result/Result.module.css */
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .questionBox, .answerBox {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #666;
+  }
+  
